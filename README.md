@@ -1,18 +1,15 @@
-<!-- assets/banner.png -->
-<!--<p align="center">
-  <img src="assets/banner.png" alt="Banner - Letícia Fuzzatti" />
-</p>-->
-
 # Hi, I'm Letícia Fuzzatti Ponce 👋
 
-Mobile Developer (iOS • Android • Flutter) — building production-grade apps with strong architecture, testing, and CI/CD.
+Mobile Developer (iOS • Android • Flutter) focused on building production-grade applications with strong architecture, testing, and CI/CD practices.
 
 ---
 
-## ✨ About Me
-- 13+ years with Mobile (iOS/Android) and experience with Backend (Java/Spring, Node.js)
-- Focus: clean architecture, scalable features, reliable releases, and high-quality UI
-- Interests: Design Systems, SwiftUI migration, KMP/Shared modules, automation & tooling
+## 🇺🇸 About Me
+- 13+ years of experience in Mobile Development (iOS & Android)
+- Solid background in Backend development using Java (Spring) and Node.js
+- Strong focus on clean architecture, scalable features, and maintainable codebases
+- Experienced with large-scale apps, cross-functional teams, and release-driven environments
+- Interests include Design Systems, SwiftUI migration strategies, KMP/shared modules, and automation tooling
 
 ---
 
@@ -33,39 +30,22 @@ Mobile Developer (iOS • Android • Flutter) — building production-grade app
 ![AWS](https://img.shields.io/badge/AWS-000000?logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=white)
 
-### Workflow
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-000000?logo=github&logoColor=white)
+### Architecture & Practices
+MVVM • MVC • MVP • Clean Architecture • Modularization • CI/CD • Automated Testing
 
 ---
-<!--
-## 🚀 Projects
 
-### 1) Project Name (iOS / Android / Flutter)
-> One-liner do projeto. Qual problema resolve e o diferencial.
+## 🇧🇷 Sobre mim (Português)
 
-<p>
-  <img src="assets/project-1/demo-1.gif" width="24%" />
-  <img src="assets/project-1/demo-2.gif" width="24%" />
-  <img src="assets/project-1/demo-3.gif" width="24%" />
-  <img src="assets/project-1/demo-4.gif" width="24%" />
-</p>
+Desenvolvedora Mobile (iOS • Android • Flutter), focada em criar aplicações de nível produtivo com arquitetura sólida, testes automatizados e pipelines de CI/CD bem definidos.
 
-- Highlights: MVVM, modularização, testes, etc.
-- Links: App Store / Play Store / Demo / Repo
+- Mais de 13 anos de experiência com desenvolvimento Mobile (iOS e Android)
+- Experiência sólida em Backend com Java (Spring) e Node.js
+- Forte foco em arquitetura limpa, escalabilidade e código sustentável
+- Vivência com aplicações de grande porte, times multidisciplinares e ciclos contínuos de release
+- Interesse em Design Systems, migração UIKit → SwiftUI, módulos compartilhados (KMP) e automação
 
 ---
---> 
 
 ## 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/leticiafponce/
-<!--
-- Portfolio: https://SEU-SITE
-- Email: seuemail@dominio.com
-
----
-
-## 🎥 Latest Content
-- YouTube: https://www.youtube.com/@SEU-CANAL
-- (Opcional) seção auto-atualizada via GitHub Actions lendo RSS
--->
