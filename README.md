@@ -1,4 +1,4 @@
-# Hi, I'm Letícia Fuzzatti Ponce 👋
+# Hi, I'm Letícia Ponce 👋
 
 Mobile Developer (iOS • Android • Flutter) focused on building production-grade applications with strong architecture, testing, and CI/CD practices.
 
